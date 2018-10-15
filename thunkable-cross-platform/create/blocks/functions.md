@@ -32,3 +32,7 @@ You can also create a function that only triggers given a specific condition
 
 ![](../../../.gitbook/assets/blocks-function-fig-3.png)
 
+## Create an AsynchLoop
+
+AsynchLoop are made to collect informations in a row one by one, it will wait for the data to be collected before jumping to the next loop
+
